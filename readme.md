@@ -9,3 +9,5 @@ stereo imaging is based on the imaging using two camera setup.and by knowing the
 2. ![](https://i.imgur.com/x4eDFDj.png)
 3. ![](https://i.imgur.com/89zPjSx.jpg)
 
+## result:
+ ![](https://github.com/sushlokshah/depth-map/blob/master/disparity.png)
